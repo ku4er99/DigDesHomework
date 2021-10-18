@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uteWaStCtp9N5mNqZ0CgPC5NRgT7EZ4mmu5wGwAa9ivrvu4qHqlxc/SFpVq0TQGsb2WxfWndAwWhr/0KlaiZbg==",
+  "success": true,
+  "projectFilePath": "D:\\MY\\Repos\\New folder\\HomeWork\\HomeWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\феникс\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7uFpX5ddDANKNP953dm6hIOe2B0T6PB+Wz+oAW5K6iaKiB6Gq3/LKfctvymLguxbJegLX6xfZrNU6o2MJjGLIQ==",
+  "success": true,
+  "projectFilePath": "D:\\MY\\Repos\\New folder\\WordCounter\\WordCounter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\феникс\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\феникс\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

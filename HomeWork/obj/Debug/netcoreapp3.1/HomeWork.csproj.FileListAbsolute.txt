@@ -1,0 +1,28 @@
+D:\MY\Repos\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+D:\MY\Repos\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+D:\MY\Repos\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+D:\MY\Repos\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+D:\MY\Repos\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+D:\MY\Repos\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+D:\MY\Repos\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+D:\MY\Repos\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+D:\MY\Repos\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+D:\MY\Repos\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+D:\MY\Repos\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+D:\MY\Repos\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
+D:\MY\Repos\New folder\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+D:\MY\Repos\New folder\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+D:\MY\Repos\New folder\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+D:\MY\Repos\New folder\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+D:\MY\Repos\New folder\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+D:\MY\Repos\New folder\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+D:\MY\Repos\New folder\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+D:\MY\Repos\New folder\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+D:\MY\Repos\New folder\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+D:\MY\Repos\New folder\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+D:\MY\Repos\New folder\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+D:\MY\Repos\New folder\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+D:\MY\Repos\New folder\HomeWork\bin\Debug\netcoreapp3.1\WordCounter.dll
+D:\MY\Repos\New folder\HomeWork\bin\Debug\netcoreapp3.1\WordCounter.pdb
+D:\MY\Repos\New folder\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CopyComplete
+D:\MY\Repos\New folder\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
