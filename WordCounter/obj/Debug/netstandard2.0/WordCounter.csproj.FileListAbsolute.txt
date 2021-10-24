@@ -1,9 +1,9 @@
 D:\MY\Repos\New folder\WordCounter\bin\Debug\netstandard2.0\WordCounter.deps.json
 D:\MY\Repos\New folder\WordCounter\bin\Debug\netstandard2.0\WordCounter.dll
 D:\MY\Repos\New folder\WordCounter\bin\Debug\netstandard2.0\WordCounter.pdb
-D:\MY\Repos\New folder\WordCounter\obj\Debug\netstandard2.0\WordCounter.csprojAssemblyReference.cache
 D:\MY\Repos\New folder\WordCounter\obj\Debug\netstandard2.0\WordCounter.AssemblyInfoInputs.cache
 D:\MY\Repos\New folder\WordCounter\obj\Debug\netstandard2.0\WordCounter.AssemblyInfo.cs
 D:\MY\Repos\New folder\WordCounter\obj\Debug\netstandard2.0\WordCounter.csproj.CoreCompileInputs.cache
 D:\MY\Repos\New folder\WordCounter\obj\Debug\netstandard2.0\WordCounter.dll
 D:\MY\Repos\New folder\WordCounter\obj\Debug\netstandard2.0\WordCounter.pdb
+D:\MY\Repos\New folder\WordCounter\obj\Debug\netstandard2.0\WordCounter.csprojAssemblyReference.cache
